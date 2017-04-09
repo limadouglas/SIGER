@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SIGER</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_Lamp">aqui ira aparecer todas as lampadas</string>
+    <string name="text_socket">aqui ira aparecer todas as Tomadas</string>
+
+    <array name="titles_tab">
+        <item>Lâmpada</item>
+        <item>Tomada</item>
+    </array>
+
+</resources>
